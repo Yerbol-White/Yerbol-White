@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yerbol-White
 - 👀 I’m interested in web programming
-- 🌱 I’m currently learning С++
+- 🌱 I’m currently learning Python
 - .
 
 <!---
